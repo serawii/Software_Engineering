@@ -42,7 +42,7 @@ print(f"Работник с кодом {most_frequent_employee} посетил �
 ```
 
 ### Результат.
-![Меню](https://github.com/serawii/Software_Engineering/blob/Тема_5/pic/сам1.png)
+![Меню](https://github.com/serawii/Software_Engineering/blob/Tema_5/pic/сам1.png)
 
 ## Выводы
 
@@ -70,7 +70,7 @@ print("Три худших результата:", results[-3:])
 print("Все результаты начиная с 10-го:", results[9:])
 ```
 ### Результат.
-![Меню](https://github.com/serawii/Software_Engineering/blob/Тема_5/pic/сам2.png)
+![Меню](https://github.com/serawii/Software_Engineering/blob/Tema_5/pic/сам2.png)
 
 ## Выводы
 
@@ -106,7 +106,7 @@ print("Вычисленная площадь треугольника, длин�
 print("Вычисленная площадь треугольника, длинами сторон которого являются максимальные значения списков, равна: ", maxS)
 ```
 ### Результат.
-![Меню](https://github.com/serawii/Software_Engineering/blob/Тема_5/pic/сам3.png)
+![Меню](https://github.com/serawii/Software_Engineering/blob/Tema_5/pic/сам3.png)
 
 ## Выводы
 
@@ -146,7 +146,7 @@ print("Обновленные оценки (список 2):", updated_grades2)
 print("Обновленные оценки (список 3):", updated_grades3)
 ```
 ### Результат.
-![Меню](https://github.com/serawii/Software_Engineering/blob/Тема_5/pic/сам4.png)
+![Меню](https://github.com/serawii/Software_Engineering/blob/Tema_5/pic/сам4.png)
 
 ## Выводы
 
@@ -190,7 +190,7 @@ print(result_set_2)
 print(result_set_3)
 ```
 ### Результат.
-![Меню](https://github.com/serawii/Software_Engineering/blob/Тема_5/pic/сам5.png)
+![Меню](https://github.com/serawii/Software_Engineering/blob/Tema_5/pic/сам5.png)
 
 ## Выводы
 
